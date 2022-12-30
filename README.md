@@ -1,7 +1,7 @@
 # Leaflet Animated Marker
 [![CDNJS](https://img.shields.io/cdnjs/v/leaflet.AnimatedMarker.svg)](https://cdnjs.com/libraries/leaflet.AnimatedMarker)
 
-This is a Leaflet plugin for animating and rotating a marker along a polyline. Check out the [demo](https://github.com/luckyamit2011/leaflet.animatedrotatedmarker/). Feedback appreciated!
+This is a Leaflet plugin for animating and rotating a marker along a polyline. Check out the [demo](https://github.com/luckyamit2011/leaflet.animatedrotatedmarker/tree/main/example/). Feedback appreciated!
 
 ## How does it work?
 
