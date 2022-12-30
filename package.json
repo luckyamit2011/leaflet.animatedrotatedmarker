@@ -1,0 +1,16 @@
+{
+  "name": "leaflet.animatedrotatedmarker",
+  "version": "1.0.0",
+  "description": "This is a Leaflet plugin for animating a marker along a polyline.",
+  "main": "AnimatedRotatedMarker.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luckyamit2011/Leaflet.AnimatedRotatedMarker"
+  },
+  "author": "amit gupta",
+  "bugs": {
+    "url": "https://github.com/luckyamit2011/Leaflet.AnimatedRotatedMarker/issues"
+  },
+  "homepage": "https://github.com/luckyamit2011/Leaflet.AnimatedRotatedMarker"
+}

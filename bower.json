@@ -1,0 +1,23 @@
+{
+  "name": "leaflet.MoveRotateMarker",
+  "description": "A Leaflet plugin to animateand a Marker with rotating angle in a polyline",
+  "main": [
+    "MoveRotateMarker.js"
+    ],
+  "dependencies": {
+    "leaflet": "~0.7.2"
+  },
+  "devDependencies": {
+  },
+  "authors": [
+    "amit gupta"
+  ],
+  "ignore": [
+    "example",
+    "**/*.txt",
+    "README",
+    "package.json",
+    ".gitignore",
+    "bower.json"
+  ]
+}
