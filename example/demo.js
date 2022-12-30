@@ -1,65 +1,3 @@
-// var locations = [
-//     {
-//         "lat": 37.774763,
-//         "recorded_at_ms": 1481571873000,
-//         "lng": -122.392041,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.77475,
-//         "recorded_at_ms": 1481571874000,
-//         "lng": -122.392024,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.774729,
-//         "recorded_at_ms": 1481571876000,
-//         "lng": -122.391997,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.774699,
-//         "recorded_at_ms": 1481571878000,
-//         "lng": -122.391961,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.77467,
-//         "recorded_at_ms": 1481571879000,
-//         "lng": -122.391925,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.7746,
-//         "recorded_at_ms": 1481571881000,
-//         "lng": -122.391838,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.774564,
-//         "recorded_at_ms": 1481571882000,
-//         "lng": -122.391794,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.774516,
-//         "recorded_at_ms": 1481571883000,
-//         "lng": -122.391736,
-//         "bearing": 135.5958557129
-//     },
-//     {
-//         "lat": 37.774342,
-//         "recorded_at_ms": 1481571885000,
-//         "lng": -122.391601,
-//         "bearing": 167.0756378174
-//     },
-//     {
-//         "lat": 37.774187,
-//         "recorded_at_ms": 1481571887000,
-//         "lng": -122.391556,
-//         "bearing": 167.0756378174
-//     },
-// ];
 
 var locations=[
     {
@@ -6389,7 +6327,7 @@ var Icon = L.DivIcon.extend({
         this.div = document.createElement('div');
         this.div.classList.add('ferrari');
         const img = document.createElement('img');
-        img.src = './Ferrari.png';
+        img.src = './truck-parked-vehicle_marker_base.png';
         img.width = '30';
         this.div.appendChild(img);
         outerDiv.appendChild(this.div);
